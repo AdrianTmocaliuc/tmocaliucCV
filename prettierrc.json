@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}"
+  }
+}

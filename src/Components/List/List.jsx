@@ -1,7 +1,6 @@
 import s from "./List.module.scss";
 
 const List = ({ list, description, projects, educationList }) => {
-  console.log("educationList", educationList);
   return (
     <>
       <ul className={s.list}>
@@ -28,12 +27,12 @@ const List = ({ list, description, projects, educationList }) => {
               <b>Technologies: </b> {technologies}
             </p>
             <p>
-              <b>GitHub page: </b>{" "}
-              <a href={githubLink} target="_blank">
-                link to page{" "}
+              <b>GitHub page: </b>
+              <a href={githubLink} target="_blank" rel="noreferrer">
+                link to page
               </a>
-              <b>/ Life page: </b>{" "}
-              <a href={lifePageLink} target="_blank">
+              <b>/ Life page: </b>
+              <a href={lifePageLink} target="_blank" rel="noreferrer">
                 link to page
               </a>
             </p>
