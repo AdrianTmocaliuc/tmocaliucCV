@@ -1,0 +1,103 @@
+{
+  "name": "Adrian Tmocaliuc",
+  "projects": [
+    {
+      "position": "Developer",
+      "technologies": "HTML, SASS, JavaScript, React, Redux.",
+      "githubLink": "https://github.com/memx86/team-project-react",
+      "lifePageLink": "https://memx86-team-project-wallet.netlify.app/home"
+    },
+    {
+      "position": "Scrum Mater",
+      "technologies": "HTML, SASS, JavaScript.",
+      "githubLink": "https://github.com/Uberdar/Team_New_JS_Project",
+      "lifePageLink": "https://uberdar.github.io/Team_New_JS_Project/"
+    },
+    {
+      "position": "Team Lead",
+      "technologies": "HTML, CSS, SASS, Method BEM.",
+      "githubLink": "https://github.com/AdrianTmocaliuc/experimentators",
+      "lifePageLink": "https://adriantmocaliuc.github.io/experimentators/"
+    }
+  ],
+  "number": "+373 68193519",
+  "email": "adriantmocaliuc@gmail.com",
+  "techSkills": ["HTML5", "CSS3", "JavaScript", "React", "AutoCad", "Excell"],
+
+  "description": "I have never been interested in programming, although I've understand how everything that surrounds us is moves in this direction. Before I've enjoyed to macking architectural drawings and interacting with the computer in proccess. But when couple of my friends are starting to learn Informational Technology, I was thinking to try it the same, and step by step I began to understand how much I regret that I didnt start it erlier. So I was shocked how much can be done in this direction. And using some basic skills I understend that I can do it.",
+  "softSkills": [
+    "Team-player",
+    "Stress-resistant",
+    "Good customer support skills",
+    "Teamwork",
+    "Good communication",
+    "Responsible"
+  ],
+  "personalSkills": {
+    "languages": ["Romanian", "Russian"],
+    "english": ["B1"]
+  },
+
+  "workExperience": [
+    {
+      "title": "Distribution manager",
+      "company": "Contrust Distribution S.R.L. Chisinau (Moldova)",
+      "date": "March 2020 - April 2021 ",
+      "city": "Chisinau (Moldova)",
+      "description": [
+        "Teamwork-oriented job, that requires stress-resistance and high-level adaptability skills in order to manage all client-related requests and handle conflict situations.",
+        "Distributing company products and services.",
+        "Understanding basic financial reports of the company  including the Profit and Loss, the Balance Sheet and other Annual Reports.",
+        "Maintaining highly professional relations with colleagues and complying with internal procedures and code of conduct."
+      ]
+    },
+    {
+      "title": "Team Member Retail",
+      "company": "EAT Company, London, EC1A4HY",
+      "date": "March 2015 - October 2018 ",
+      "city": "United Kingdom",
+      "description": [
+        "Serving customers, using the computerized till system, cash and card handling, stock replenishment, price reductions and cashing up.",
+        "Key holder and responsible for the evening lock up procedure, as no manager present with access to the safe.",
+        "Supporting new staff members in learning how to operate the till and providing an example of excellent customer service with a friendly and attentive attitude."
+      ]
+    },
+    {
+      "title": "College Professor ",
+      "company": "Centrul de Excelenta in Energetica si Electronica",
+      "date": "Janury 2011 - February 2019 ",
+      "city": "Chisinau (Moldova)",
+      "description": [
+        "Preparing lesson plans according to the curriculum and adapting it to the students’ needs in order to maximise learning.",
+        "Assessing and recording students’ learning progress.",
+        "Evaluate the learning occurred and adjust the lesson plans according to the achieved learning target.",
+        "Researching reading material that supports my professional development further."
+      ]
+    },
+    {
+      "title": "Pool Lifeguard",
+      "company": "Student and Exchange Visitor Programme), Six Flags America, Largo",
+      "date": "Janury 2011 - February 2019",
+      "city": "United States",
+      "description": [
+        "Performing various maintenance duties as directed to maintain a clean and safe facility.",
+        "Assessing and recording students learning progress.",
+        "Distributing company products and services.",
+        "Providing emergency care and treatment as required until the arrival of emergency medical services.",
+        "Providing first AID."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor Degree inn Engineering, Manufacturing and Processing Technologies",
+      "location": "Technical University of Moldova, Chisinau (Moldova)",
+      "date": "September 2010 - June 2014"
+    },
+    {
+      "title": "Master Degree in Architecture and Civil Engineering",
+      "location": "Technical University of Moldova, Chisinau (Moldova)",
+      "date": "September 2010 - June 2016"
+    }
+  ]
+}

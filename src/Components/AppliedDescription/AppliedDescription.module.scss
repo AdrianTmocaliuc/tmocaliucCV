@@ -1,0 +1,47 @@
+.applied{
+    margin: 40px 90px;
+}   
+.name{
+        font-style: normal;
+            font-weight: bold;
+            font-size: 45px;
+            line-height: 55px;
+            margin: 0 0 25px 0;
+}
+.workExperience{
+    margin-top: 30px;
+}
+.work{
+    margin-top: 30px;
+}
+
+.company{
+    color: var(--edit-text-cl);
+}
+.date{
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 10px;
+        color: var(--secondary-text-cl);
+}
+
+.description {
+        width: 500px;
+        text-align: justify;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: var(--secondary-text-cl);
+        text-indent: 20px;
+}
+
+.list{
+    list-style: none;
+    padding: 0;
+}
+
+.projects{
+    list-style-type: upper-roman;
+    font-weight: bolder;
+}

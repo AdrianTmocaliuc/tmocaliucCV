@@ -1,0 +1,46 @@
+.list{
+    list-style: square;
+}
+.item{
+    list-style: none;
+    text-align: justify;
+    margin-top: 5px;
+&::before {
+        content: "•";
+        color: var(--list-dots-cl);
+        display: inline-block;
+        width: 1em;
+        margin-left: -1em
+    }
+}
+.itemWork{
+        list-style-type: disc;
+        margin-bottom: 5px;
+        color: var(--secondary-text-cl);
+}
+
+.itemProject{
+    font-weight: normal;
+    &:not(:last-child){
+        margin-bottom: 10px;
+    }
+}
+.educationItem{
+    list-style: none;
+    &:not(:last-child){
+        margin-bottom: 14px;
+    }
+}
+
+.location{
+    color: var(--edit-text-cl);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.date{
+    color: var(--secondary-text-cl);
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 10px;
+    color: var(--secondary-text-cl);
+}

@@ -1,0 +1,47 @@
+.main{
+    background-color: var(--third-background-cl);
+    // border: 2px solid #000;
+    color: var(--third-text-cl);
+}
+
+.profileImage{
+    width: 100%;
+    height: 400px;
+    margin-top: 80px;
+    background-image: url(../../utilities/images/AdrianTmocaliuc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.list{
+    list-style: none;
+    padding: 0;
+    a {
+        color: var(--secondary-text-cl);
+    }
+}
+
+.techList, .softList{
+    padding: 0;
+    
+}
+
+.description{
+    margin-left: 30px;
+    margin-top: 30px;
+    div:not(:first-child){
+        margin-top: 50px;
+    }
+}
+
+.item{
+    display: flex;
+    align-content: center;
+    margin-top: 5px;
+}
+.phone, .mail{
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+    fill: var(--third-text-cl);
+}

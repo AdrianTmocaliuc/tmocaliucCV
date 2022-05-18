@@ -2,7 +2,7 @@
   "name": "start-react-template",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://AdrianTmocaliuc.github.io/start-react-template",
+  "homepage": "https://AdrianTmocaliuc.github.io/start-react-template",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
@@ -10,6 +10,8 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.51.0",
+    "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -17,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint:js": "eslint src/**/*.{js,jsx}" 
+    "lint:js": "eslint src/**/*.{js,jsx}"
   },
   "eslintConfig": {
     "extends": [
