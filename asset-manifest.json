@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tmocaliucCV/static/css/main.f405dfc1.css",
-    "main.js": "/tmocaliucCV/static/js/main.993dbeec.js",
+    "main.css": "/tmocaliucCV/static/css/main.98cb480d.css",
+    "main.js": "/tmocaliucCV/static/js/main.36a61044.js",
     "static/media/AdrianTmocaliuc.jpg": "/tmocaliucCV/static/media/AdrianTmocaliuc.1d622cfb834636561043.jpg",
-    "static/media/sprite.svg": "/tmocaliucCV/static/media/sprite.d606fd132b9dbc1599fdfcc597305c5a.svg",
+    "static/media/sprite.svg": "/tmocaliucCV/static/media/sprite.7d6c6ed0fb270ba715f094fbdfdbfa26.svg",
     "index.html": "/tmocaliucCV/index.html",
-    "main.f405dfc1.css.map": "/tmocaliucCV/static/css/main.f405dfc1.css.map",
-    "main.993dbeec.js.map": "/tmocaliucCV/static/js/main.993dbeec.js.map"
+    "main.98cb480d.css.map": "/tmocaliucCV/static/css/main.98cb480d.css.map",
+    "main.36a61044.js.map": "/tmocaliucCV/static/js/main.36a61044.js.map"
   },
   "entrypoints": [
-    "static/css/main.f405dfc1.css",
-    "static/js/main.993dbeec.js"
+    "static/css/main.98cb480d.css",
+    "static/js/main.36a61044.js"
   ]
 }
