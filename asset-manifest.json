@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/start-react-template/static/css/main.eac09ee0.css",
-    "main.js": "/start-react-template/static/js/main.85e12ddd.js",
-    "index.html": "/start-react-template/index.html",
-    "main.eac09ee0.css.map": "/start-react-template/static/css/main.eac09ee0.css.map",
-    "main.85e12ddd.js.map": "/start-react-template/static/js/main.85e12ddd.js.map"
+    "main.css": "/tmocaliucCV/static/css/main.98cb480d.css",
+    "main.js": "/tmocaliucCV/static/js/main.36a61044.js",
+    "static/media/AdrianTmocaliuc.jpg": "/tmocaliucCV/static/media/AdrianTmocaliuc.1d622cfb834636561043.jpg",
+    "static/media/sprite.svg": "/tmocaliucCV/static/media/sprite.7d6c6ed0fb270ba715f094fbdfdbfa26.svg",
+    "index.html": "/tmocaliucCV/index.html",
+    "main.98cb480d.css.map": "/tmocaliucCV/static/css/main.98cb480d.css.map",
+    "main.36a61044.js.map": "/tmocaliucCV/static/js/main.36a61044.js.map"
   },
   "entrypoints": [
-    "static/css/main.eac09ee0.css",
-    "static/js/main.85e12ddd.js"
+    "static/css/main.98cb480d.css",
+    "static/js/main.36a61044.js"
   ]
 }
